@@ -10,7 +10,7 @@ and making complex things feel simple.
 
 Always trying to learn better ways to do things.
 
-Angular · TypeScript · C# · Playwright · SQL
+Angular · TypeScript · C# · SQL
 
 ---
 
