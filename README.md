@@ -14,4 +14,5 @@ Angular · TypeScript · C# · Playwright · SQL
 
 ---
 
-> Usually building something, even if it’s just to see what happens
+Usually building something…  
+or trying to, until my cat decides my keyboard is the real project.
