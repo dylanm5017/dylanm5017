@@ -1,16 +1,31 @@
-## Hi there 👋
+# Dylan
 
-<!--
-**dylanm5017/dylanm5017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+software engineer  
+I like tinkering with things
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I spend most of my time building, breaking, and figuring out how things work.
+
+nothing too serious, just small ideas, experiments, and whatever catches my interest.
+
+---
+
+## work
+
+angular + typescript  
+c#  
+playwright (testing)  
+sql / system integrations  
+
+---
+
+## here
+
+some projects are polished  
+some are half-finished  
+most exist because i was curious about something
+
+---
+
+> usually building something, even if it’s just to see what happens
