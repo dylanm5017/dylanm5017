@@ -1,11 +1,8 @@
 # Dylan
 
-Software Engineer  
-I like tinkering with things
-
 ---
 
-Building, breaking, and figuring things out.
+I like building, breaking, and figuring things out.
 
 I enjoy setting up new projects,  
 refactoring messy systems,  
