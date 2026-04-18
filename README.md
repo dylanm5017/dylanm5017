@@ -1,31 +1,20 @@
 # Dylan
 
-software engineer  
+Software Engineer  
 I like tinkering with things
 
 ---
 
-I spend most of my time building, breaking, and figuring out how things work.
+Building, breaking, and figuring things out.
 
-nothing too serious, just small ideas, experiments, and whatever catches my interest.
+I enjoy setting up new projects,  
+refactoring messy systems,  
+and making complex things feel simple.
 
----
+Always trying to learn better ways to do things.
 
-## work
-
-angular + typescript  
-c#  
-playwright (testing)  
-sql / system integrations  
+Angular · TypeScript · C# · Playwright · SQL
 
 ---
 
-## here
-
-some projects are polished  
-some are half-finished  
-most exist because i was curious about something
-
----
-
-> usually building something, even if it’s just to see what happens
+> Usually building something, even if it’s just to see what happens
